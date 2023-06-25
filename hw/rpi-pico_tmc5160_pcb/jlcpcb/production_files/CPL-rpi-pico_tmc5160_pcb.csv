@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x04,Wago_734-134_1x04_P3.50mm_Vertical,65.78,-60.9,-90.0,top
+J2,Conn_01x03,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,20.6,-15.425,0.0,top
+J3,Conn_01x04,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,36.1,-15.4,0.0,top
+J4,Conn_01x04,Wago_734-134_1x04_P3.50mm_Vertical,56.0,-16.5,0.0,top
+J5,Conn_01x04,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,55.195,-60.98,-90.0,top
+J6,Conn_01x04,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,26.697126,-4.575,180.0,top
+Q1,2N7002,SOT-23,46.8925,-4.975,180.0,top
+Q2,2N7002,SOT-23,39.3675,-3.325,180.0,top
+R1,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,42.3675,-5.325,90.0,top
+R2,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,49.8925,-2.975,-90.0,top
+R3,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,46.8925,-1.975,180.0,top
+R4,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,39.28,-6.325,180.0,top
+U4,AS5600,SOIC-8_3.9x4.9mm_P1.27mm,58.1,-4.3825,180.0,top

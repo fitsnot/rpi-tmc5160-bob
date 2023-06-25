@@ -1,3 +1,8 @@
 *backup*/
 *cache*
 *.zip
+*.step
+*.stp
+*.wrl
+*_autosave*
+**/jlcpcb/gerber/
